@@ -1,0 +1,126 @@
+/* CSS declarations go here */
+@media screen and (max-width: 480px) {
+  h1 {
+    font-size: 1.25em;
+  }
+  img {
+    width: 100%;
+  }
+  .navbar-collapse li:hover {
+    background-color: lightblue;
+  }
+  div.landing-page {
+    font-size: 1.5em;
+  }
+  div.landing-page a {
+    color: #0077e6;
+  }
+}
+
+html, body {
+  margin-top: 50px;
+  background-color: #e6e6e6;
+  height: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+  padding: 4px;
+}
+
+.navbar-custom {
+  background: #fff;
+  font-size: 1.5em;
+}
+
+.navbar-brand {
+  font-size: 1.10em;
+}
+
+.landing-page {
+  text-align: center;
+  font-size: 3.0em;
+}
+
+.landing-page a {
+  color: #0077e6;
+}
+
+.contact-form {
+  text-align: center;
+}
+
+.praise-for-eddie-title {
+  text-align: center;
+}
+
+.praise {
+  padding: 35px;
+  height: 500px;
+  background: #80c1ff;
+  text-align: center;
+  opacity: 0.8;
+  margin-bottom: 10px;
+}
+
+.praise-instance {
+  font-size: 1.25em;
+  background-color: white;
+  margin: 10px;
+  padding: 20px;
+  overflow-y: auto;
+  height: 410px;
+}
+
+.eddies-work-page {
+  text-align: center;
+  padding: 10px;
+}
+
+.contact-form {
+  margin: 0 auto;
+  width: 40%;
+}
+
+.admin-login {
+  text-align: center;
+}
+
+.admin-page {
+  text-align: center;
+}
+
+.recent-contacts-title {
+  text-align: center;
+}
+
+.contacts-list {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #0077e6;
+  padding: 20px;
+}
+
+.falcondb {
+  text-align: center;
+}
+
+.upload-images {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  width: 100%;
+  height: 150px;
+  color: black;
+  background-color: #aaa;
+}
+
+/*.navbar-collapse li:hover {
+  background-color: #B4D8E7;
+}*/
+

@@ -1,0 +1,124 @@
+eddiepaints.com project notes:
+
+build seperate layout for admin area (image issues) fixed image issue with new
+  routes path /admin/falcondb couldn’t find images changed route to /falcondb.
+
+landing page:
+  header
+  welcome and painting philosophy
+  
+contact page:
+  build form -----> done
+  conect to database and send email to eddiepaints -----> done
+  provide phone number option (if call in how to add to database) manually?
+
+
+
+build site as a blog site where we upload pictues of current work and blog about
+painting and project specific issues
+
+link to twitter and facebook for eddiepaints
+
+links for residential and commercial work and links for interior and exterior work
+
+incorporate falcondb into eddiepaints 
+
+testimonials page: show testimonials, show form for entering testimonials add
+testimonials to database, iterate db.
+
+DATABASES:
+  potential customers / people who contact for estimate
+  people who recieved an estimate
+  people who recieved an estimate and agreed to go ahead
+  people who recieved an estimate and didnot agree to go ahead
+  work in progress
+  finnished work and before and after photos
+  videos and blog entries about projects and techniques -- youtube style
+  falcondb customer database
+  eddiepaints job page with db of potential painters
+  database of employee info and hours jobs etc.
+  
+click here for eddie's green initiative:
+click here for eddie's howto videos:
+
+have customers leave feedback on twitter or facebook or email so we can upload
+
+TESTIMONIALS:
+I couldn’t be more pleased with this painting service.  They did gorgeous work at a 
+reasonable prices and were prompt and completed the work flawlessly without excuses
+or delays.  They are the best painters I have ever worked with.  They took a lot of 
+care to match my colors and wouldn’t begin work until I was completely satisfied 
+with the paint tests.  The crew was polite, professional and did a marvelous job
+prepping and restoring my home.  Would use them again in a heartbeat!
+
+They prepped, power washed, and painted the exterior of my house. They did a 
+fantastic job! Mr. Shin who was the head of my job was so accommodating! I would 
+definitely use them again.
+
+Carl B Brookhaven Pa
+Everything went smoothly from beginning to end.  I try to use local companies if I 
+can and this company was only a few blocks away.   Eddie came out the same day to 
+give an estimate.  I compared it to 3 different companies and they were definitely 
+the most reasonable and they started the day after I gave the ok.  The work took 
+about 4 days and they did everything that was in the contract and even threw in 
+refinishing the front door for free.
+
+We have had several bad experiences with painters in the past so we are always 
+looking for a good painter needed. I am happy to say we have finally found someone.
+The most important part of the job is the prep work and James Lee House Painting 
+was fabulous on prep. Even my very critical husband was impressed. The job they did
+was perfect, couldn’t find a single thing to fault them on. They are on time, polite,
+great with prep work and with painting and always leave your home clean when they 
+leave. They are very meticulous about their work. Highly recommend.
+
+admin: eddie@eddiepaints.com wm
+
+
+Eddie's todo list:
+order floor
+cancel hinge order
+work on eddiepaints admin 
+
+Eddie's shopping list:
+
+Eddie's kitchen job list:
+screw sub floor for squeaks
+sand glue
+finish and hang upper cab doors
+remove counter top
+remove oven, dishwasher, sink and fridge
+remove furniture kitchen and dining room make room in living room
+  where to put dishwasher oven fridge
+slides for furniture, 
+12 for stools 
+16 for chairs 
+4 for table
+4 for hutch
+16 for dining room
+
+
+Glass cleaning recipe: Makes 1 pint
+• 4 ounces of rubbing alcohol (isopropyl 70%)
+• one tablespoon of white vinegar
+• A couple drops of your favorite dish washing liquid.
+• Fill the balance of bottle with water.
+
+Greek salad dressing:
+  1/2 cup olive oil
+  4 tbsp vinegar
+  1 1/2 tsp dijon mustard
+  1 tbsp lemon juice
+  1/2 tsp basil
+  1/4 oregenao
+  1/4 salt
+  1/2 tsp sugar
+  1 fresh garlic clove
+  
+  
+Grandma's Greek Dressing (no vinegar)
+1 large clove of Garlic, squeezed through a garlic press
+1 teaspoon Dried Oregano
+1/2 teaspoon Kosher Salt
+1/4 teaspoon Coarse Ground Black Pepper
+1/4 cup freshly squeezed Lemon Juice, strained of pulp and seeds
+1/2 cup Olive Oil

@@ -1,0 +1,27 @@
+<template name="contact">
+  <div class="contact-form">
+    <h1>Contact Eddie</h1>
+    <form class="contact-eddie">
+      <fieldset class="form-group">
+        <input data-rule-minlength="2" type="text" class="form-control required" 
+          id="name" name="name" placeholder="Name">
+      </fieldset>
+      <fieldset class="form-group">
+        <input type="tel" class="form-control required phoneUS" id="phone" 
+          name="phone" placeholder="Phone Number">
+      </fieldset>
+      <fieldset class="form-group">
+        <input type="email" class="form-control required email" id="email" 
+          name="email" placeholder="Email Address">
+        <small class="text-muted">
+          We'll never share your email with anyone else.
+        </small>
+      </fieldset>
+      <fieldset class="form-group">
+        <textarea class="form-control required" id="textarea" name="textarea" 
+          rows="3" placeholder="Message"></textarea>
+      </fieldset>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+  </div>
+</template>

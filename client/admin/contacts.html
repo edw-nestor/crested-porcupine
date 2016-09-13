@@ -1,0 +1,15 @@
+<template name="contacts">
+	<h1 class="recent-contacts-title">Recent Contacts:</h1>
+  <div class="contacts-list">
+    <ul>
+      {{#each contacts}}
+        <li>{{name}}</li>
+        <li>{{phone}}</li>
+        <li>{{email}}</li>
+        <li>{{message}}</li>
+        <li>{{createdAt}}</li>
+        <br>
+      {{/each}}
+    </ul>
+  </div>
+</template>
