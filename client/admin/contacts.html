@@ -1,13 +1,13 @@
-<template name="contacts">
-	<h1 class="recent-contacts-title">Recent Contacts:</h1>
+  <template name="contacts">
   <div class="contacts-list">
+    <h1 class="recent-contacts-title">Recent Contacts:</h1>
     <ul>
       {{#each contacts}}
-        <li>{{name}}</li>
+        <li class="contacts-name-line">{{name}}</li>
         <li>{{phone}}</li>
         <li>{{email}}</li>
         <li>{{message}}</li>
-        <li>{{createdAt}}</li>
+        <li class="contacts-date-line">{{formatDateTime createdAt}}</li>
         <br>
       {{/each}}
     </ul>

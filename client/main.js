@@ -1,3 +1,12 @@
+// global helper for date formating
+Template.registerHelper('formatDate', function(date) {
+    return moment(date).format('MMM-DD-YYYY');
+});
+
+Template.registerHelper('formatDateTime', function(date){
+  return moment(date).format('MMM-DD-YYYY, h:mm:ss a');
+});
+
 // makes hambuger menu close after selecting a menu item
 Template.header.events({ 
   click: function() {
@@ -47,6 +56,27 @@ Template.contact.events({
   }
 });
 
+Template.praise.events({
+  submit: function(event) {
+    event.preventDefault();
+    var name = event.target.name.value;
+    var location = event.target.location.value;
+    var review = event.target.textarea.value;
+    Meteor.call('reviews.insert', name, location, review);
+    event.target.name.value = "";
+    event.target.location.value = "";
+    event.target.textarea.value = "";
+
+    alert("Thank you for your time and effort.");
+  }
+});
+
+Template.reviews_list.helpers({
+  'reviews': function() {
+    return Reviews.find().fetch().reverse();
+  }
+});
+
 
 Template.admin.events({
   // route to admin locked, login to admin area
@@ -80,4 +110,5 @@ Template.contacts.helpers({
 // });
 
 Meteor.subscribe('contacts');
+Meteor.subscribe('reviews');
 // Meteor.subscribe('images');

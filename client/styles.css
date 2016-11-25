@@ -6,9 +6,7 @@
   img {
     width: 100%;
   }
-  .navbar-collapse li:hover {
-    background-color: lightblue;
-  }
+  
   div.landing-page {
     font-size: 1.5em;
   }
@@ -24,6 +22,7 @@ html, body {
 }
 
 ul {
+  padding: 0%;
   list-style-type: none;
 }
 
@@ -50,29 +49,37 @@ img {
 }
 
 .contact-form {
-  text-align: center;
+  margin: 10%;
 }
 
-.praise-for-eddie-title {
-  text-align: center;
+.reviews-page {
+  margin-top: 0;
+  margin-left:  10%;
+  margin-right: 10%;
 }
 
-.praise {
-  padding: 35px;
-  height: 500px;
-  background: #80c1ff;
-  text-align: center;
-  opacity: 0.8;
-  margin-bottom: 10px;
+.reviews-list {
+  margin-top: 0;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
-.praise-instance {
+.name-location-date-line {
+  width: 85%;
   font-size: 1.25em;
-  background-color: white;
-  margin: 10px;
-  padding: 20px;
-  overflow-y: auto;
-  height: 410px;
+  color: #0077e6;
+}
+
+.review-date {
+  color: black;
+  font-size: 1.25em;
+  margin-left: 0%;
+}
+
+.review-line {
+  color: #4d4d4d;
+  font-size: 1.25em;
+  width: 85%;
 }
 
 .eddies-work-page {
@@ -93,19 +100,34 @@ img {
   text-align: center;
 }
 
-.recent-contacts-title {
-  text-align: center;
+.admin-page a {
+  color: #0077e6;
 }
 
 .contacts-list {
-  margin: auto;
+  font-size: 1.5em;
+  color: #4d4d4d;
+  margin-top: 0;
+  margin-left: 10%;
+  margin-right: 10%;
   width: 50%;
-  border: 3px solid #0077e6;
   padding: 20px;
+}
+
+.contacts-name-line {
+  color: #0077e6;
+}
+
+.contacts-date-line {
+  color: black;
 }
 
 .falcondb {
   text-align: center;
+}
+
+.falcondb h1 {
+  color: #0077e6;
 }
 
 .upload-images {
@@ -120,7 +142,15 @@ footer {
   background-color: #aaa;
 }
 
-/*.navbar-collapse li:hover {
-  background-color: #B4D8E7;
-}*/
+.nav.navbar-left>li>a:hover {
+  color: #0077e6;
+}
 
+.navbar-brand a {
+  text-decoration: none;
+  color: #595959;
+}
+
+.navbar-brand a:hover {
+  color: #0077e6;
+}

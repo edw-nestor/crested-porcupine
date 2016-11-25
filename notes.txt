@@ -44,7 +44,143 @@ click here for eddie's howto videos:
 have customers leave feedback on twitter or facebook or email so we can upload
 
 
-
+<!--<template name="praise">
+  <div class="praise-for-eddie-title">
+    <h1>Praise for Eddie (revamping underway)</h1>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Karla - East Brandywine, PA</b>
+          <p>
+            I had to write in and thank Eddie and his men for doing such a great job
+            on my new kitchen. They went out of their way to make sure everything was
+            just right. I would definetly recommend Eddie to my friends.
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Bill - Chester Springs, PA</b>
+          <p>
+            I had to write in and thank Eddie and his men for doing such a great job
+            on my new kitchen. They went out of their way to make sure everything was
+            just right. I would definetly recommend Eddie to my friends.  
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Margaret - Downingtown, PA</b>
+          <p>
+            We have had several bad experiences with painters in the past so we are always 
+            looking for a good painter. I am happy to say we have finally found someone.
+            The most important part of the job is the prep work and Eddie and his crew 
+            were fabulous on prep. Even my very critical husband was impressed. They were
+            on time, polite, and very meticulous about their work. I highly recommend.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Karla - from Havertown, PA</b>
+          <p>
+            I had to write in and thank Eddie and his men for doing such a great job
+            on my new kitchen. They went out of their way to make sure everything was
+            just right. I would definetly recommend Eddie to my friends.
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Karla - from Havertown, PA</b>
+          <p>
+            I had to write in and thank Eddie and his men for doing such a great job
+            on my new kitchen. They went out of their way to make sure everything was
+            just right. I would definetly recommend Eddie to my friends.
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Karla - from Havertown, PA</b>
+          <p>
+            I had to write in and thank Eddie and his men for doing such a great job
+            on my new kitchen. They went out of their way to make sure everything was
+            just right. I would definetly recommend Eddie to my friends.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Karla - from Havertown, PA</b>
+          <p>
+            I had to write in and thank Eddie and his men for doing such a great job
+            on my new kitchen. They went out of their way to make sure everything was
+            just right. I would definetly recommend Eddie to my friends.
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Karla - from Havertown, PA</b>
+          <p>
+            I had to write in and thank Eddie and his men for doing such a great job
+            on my new kitchen. They went out of their way to make sure everything was
+            just right. I would definetly recommend Eddie to my friends.
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Karla - from Havertown, PA</b>
+          <p>
+            I had to write in and thank Eddie and his men for doing such a great job
+            on my new kitchen. They went out of their way to make sure everything was
+            just right. I would definetly recommend Eddie to my friends.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Karla - from Havertown, PA</b>
+          <p>
+            I had to write in and thank Eddie and his men for doing such a great job
+            on my new kitchen. They went out of their way to make sure everything was
+            just right. I would definetly recommend Eddie to my friends.
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Karla - from Havertown, PA</b>
+          <p>
+            I had to write in and thank Eddie and his men for doing such a great job
+            on my new kitchen. They went out of their way to make sure everything was
+            just right. I would definetly recommend Eddie to my friends.
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-12 col-lg-4 praise">
+        <div class="praise-instance">
+          <b>Karla - from Havertown, PA</b>
+          <p>
+            I had to write in and thank Eddie and his men for doing such a great job
+            on my new kitchen. They went out of their way to make sure everything was
+            just right. I would definetly recommend Eddie to my friends.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</template> -->
 
 
  

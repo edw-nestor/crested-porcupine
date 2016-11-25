@@ -8,9 +8,13 @@ Meteor.publish('contacts', function contactsPublication() {
   return Contacts.find();
 });
 
-Meteor.publish('images', function contactsPublication() {
-  return Images.find();
+Meteor.publish('reviews', function reviewsPublication() {
+  return Reviews.find();
 });
+
+//Meteor.publish('images', function contactsPublication() {
+  //return Images.find();
+//});
 
 // In your server code: define a method that the client can call
 Meteor.methods({
